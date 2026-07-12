@@ -23,7 +23,7 @@ Clean, secure, and blazing-fast self-hosted utilities built in Rust.
 Deploy any of these applications using **Docker / Podman** containers, or install them on **Unraid** using the official templates repository:
 
 * **Unraid Templates:** [etecoons/unraid-apps](https://github.com/etecoons/unraid-apps)
-* **Docker Registry:** Pull namespace `etecoons/` or `ubermetroid/`
+* **Docker Registry:** Pull namespace `ghcr.io/etecoons/` (GitHub Container Registry)
 
 ## Contributing & Security
 

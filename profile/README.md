@@ -6,17 +6,18 @@
 
 Clean, secure, and blazing-fast self-hosted utilities built in Rust.
 
-## Projects
+## Apps
 
-| Project | Description |
-| :--- | :--- |
-| <img src="assets/beam.png" width="24" height="24" align="center"> **[beam](https://github.com/etecoons/beam)** | High-speed, secure file dropper transfer utility. |
-| <img src="assets/grid.png" width="24" height="24" align="center"> **[grid](https://github.com/etecoons/grid)** | Self-hosted Kanban board application. |
-| <img src="assets/pad.png" width="24" height="24" align="center"> **[pad](https://github.com/etecoons/pad)** | Collaborative real-time scratchpad. |
-| <img src="assets/todo.png" width="24" height="24" align="center"> **[todo](https://github.com/etecoons/todo)** | Minimalist task management tool. |
-| <img src="assets/trace.png" width="24" height="24" align="center"> **[trace](https://github.com/etecoons/trace)** | Network diagnostic, WHOIS, IP, and ASN lookup utility. |
-| <img src="assets/pulse.png" width="24" height="24" align="center"> **[pulse](https://github.com/etecoons/pulse)** | Real-time system monitoring panel. |
-| <img src="assets/scan.png" width="24" height="24" align="center"> **[scan](https://github.com/etecoons/scan)** | Planetary hazard sector scanner (Minesweeper clone). |
+| App | Repo | Icon |
+| :--- | :--- | :---: |
+| **Beam** <br> High-speed, secure file dropper transfer utility. | [etecoons/beam](https://github.com/etecoons/beam) | <img src="assets/beam.png" width="32" height="32"> |
+| **Grid** <br> Self-hosted Kanban board application. | [etecoons/grid](https://github.com/etecoons/grid) | <img src="assets/grid.png" width="32" height="32"> |
+| **Pad** <br> Collaborative real-time scratchpad. | [etecoons/pad](https://github.com/etecoons/pad) | <img src="assets/pad.png" width="32" height="32"> |
+| **Todo** <br> Minimalist task management tool. | [etecoons/todo](https://github.com/etecoons/todo) | <img src="assets/todo.png" width="32" height="32"> |
+| **Trace** <br> Network diagnostic, WHOIS, IP, and ASN lookup utility. | [etecoons/trace](https://github.com/etecoons/trace) | <img src="assets/trace.png" width="32" height="32"> |
+| **Pulse** <br> Real-time system monitoring panel. | [etecoons/pulse](https://github.com/etecoons/pulse) | <img src="assets/pulse.png" width="32" height="32"> |
+| **Scan** <br> Planetary hazard sector scanner (Minesweeper clone). | [etecoons/scan](https://github.com/etecoons/scan) | <img src="assets/scan.png" width="32" height="32"> |
+
 
 ## Deployment
 

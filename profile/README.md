@@ -9,8 +9,8 @@ frontends and Axum backends. Clean, secure, and blazing fast.
 
 ## Games
 
-| Games | Description | Repo | Icon |
-| :--- | :--- | :--- | :---: |
+| Game & Description | Repo | Icon |
+| :--- | :--- | :---: |
 | **Defend** <br> Retro-neon vertical space shooter. | [studio2201/defend](https://github.com/studio2201/defend) | <img src="assets/defend.png" width="32" height="32"> |
 | **Rustle** <br> Self-hosted Wordle clone, dockerized. Forked from [modem7/react-wordle](https://github.com/modem7/react-wordle). | [studio2201/rustle](https://github.com/studio2201/rustle) | <img src="assets/rustle.png" width="32" height="32"> |
 | **Scan** <br> Planetary hazard sector scanner. A Minesweeper clone. | [studio2201/scan](https://github.com/studio2201/scan) | <img src="assets/scan.png" width="32" height="32"> |
@@ -18,8 +18,8 @@ frontends and Axum backends. Clean, secure, and blazing fast.
 
 ## Apps
 
-| Apps | Description | Repo | Icon |
-| :--- | :--- | :--- | :---: |
+| App & Description | Repo | Icon |
+| :--- | :--- | :---: |
 | **Beam** <br> High-performance, secure self-hosted file sharing. | [studio2201/beam](https://github.com/studio2201/beam) | <img src="assets/beam.png" width="32" height="32"> |
 | **Grid** <br> Clean, lightning-fast self-hosted Kanban board. | [studio2201/grid](https://github.com/studio2201/grid) | <img src="assets/grid.png" width="32" height="32"> |
 | **Pad** <br> Collaborative real-time scratchpad. | [studio2201/pad](https://github.com/studio2201/pad) | <img src="assets/pad.png" width="32" height="32"> |

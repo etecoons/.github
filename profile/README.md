@@ -33,6 +33,12 @@ frontends and Axum backends. Clean, secure, and blazing fast.
 | :--- | :--- | :---: | :---: |
 | **StateSync** <br> Real-time state-syncing media server. | [studio2201/statesync](https://github.com/studio2201/statesync) | `4601` | <img src="assets/statesync.png" width="32" height="32"> |
 
+## Core Libraries
+
+| Library & Description | Repo | Port | Icon |
+| :--- | :--- | :---: | :---: |
+| **Shared Assets** <br> Shared design system, UI components, and backend utilities. | [studio2201/shared-assets](https://github.com/studio2201/shared-assets) | `—` | <img src="assets/beam.png" width="32" height="32"> |
+
 <!--
 Placeholder icons: defend.png, rustle.png, snake.png, statesync.png are temporary copies of
 beam.png and should be replaced with per-app icons when available.

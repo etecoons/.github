@@ -34,8 +34,9 @@ Self-hosted web services, desktop applications, and games built in Rust. Clean, 
 | <img src="assets/scan.png" width="32" height="32"> | **Scan** <br> Planetary hazard sector scanner. A Minesweeper clone. | [studio2201/scan](https://github.com/studio2201/scan) | `4503` |
 | <img src="assets/defend.png" width="32" height="32"> | **Defend** <br> Retro-neon vertical space shooter. | [studio2201/defend](https://github.com/studio2201/defend) | `4504` |
 
-## Libraries
+## Infrastructure & Libraries
 
-| Icon | Library & Description | Repository | Type |
+| Icon | Project & Description | Repository | Type |
 | :---: | :--- | :--- | :---: |
+| <img src="assets/beam.png" width="32" height="32"> | **Packages** <br> Official APT and DNF package distribution repository & installer scripts. | [studio2201/packages](https://github.com/studio2201/packages) | `APT & DNF Hub` |
 | <img src="assets/beam.png" width="32" height="32"> | **Shared Assets** <br> Shared design system, UI components, and backend utilities. | [studio2201/shared-assets](https://github.com/studio2201/shared-assets) | `Rust Workspace` |

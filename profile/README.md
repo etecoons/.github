@@ -4,11 +4,11 @@
 
 # studio2201
 
-Self-hosted web applications, desktop systems, and games built in Rust. Clean, secure, and blazing fast.
+Self-hosted web services, desktop applications, and games built in Rust. Clean, secure, and blazing fast.
 
-## Server Apps & Web Services
+## Web Services
 
-| Icon | App & Description | Repository | Port |
+| Icon | Service & Description | Repository | Port |
 | :---: | :--- | :--- | :---: |
 | <img src="assets/beam.png" width="32" height="32"> | **Beam** <br> High-performance, secure self-hosted file sharing. | [studio2201/beam](https://github.com/studio2201/beam) | `4401` |
 | <img src="assets/pad.png" width="32" height="32"> | **Pad** <br> Collaborative real-time scratchpad. | [studio2201/pad](https://github.com/studio2201/pad) | `4402` |
@@ -16,15 +16,16 @@ Self-hosted web applications, desktop systems, and games built in Rust. Clean, s
 | <img src="assets/trace.png" width="32" height="32"> | **Trace** <br> Network diagnostic, WHOIS, IP, and ASN lookup. | [studio2201/trace](https://github.com/studio2201/trace) | `4404` |
 | <img src="assets/grid.png" width="32" height="32"> | **Grid** <br> Clean, lightning-fast self-hosted Kanban board. | [studio2201/grid](https://github.com/studio2201/grid) | `4405` |
 | <img src="assets/pulse.png" width="32" height="32"> | **Pulse** <br> Real-time system monitoring panel. | [studio2201/pulse](https://github.com/studio2201/pulse) | `4406` |
+| <img src="assets/statesync.png" width="32" height="32"> | **StateSync** <br> Real-time state-syncing media server. | [studio2201/statesync](https://github.com/studio2201/statesync) | `4601` |
 
-## Desktop Applications & System Daemons
+## Desktop
 
-| Icon | System & Description | Repository | Platform / Type |
+| Icon | System & Description | Repository | Target |
 | :---: | :--- | :--- | :---: |
 | <img src="assets/trance.png" width="32" height="32"> | **Trance** <br> Modular, high-performance Wayland screensaver daemon & idle engine in Rust. | [studio2201/trance](https://github.com/studio2201/trance) | `Wayland / Linux` |
 | <img src="assets/trance-plugins.png" width="32" height="32"> | **Trance Plugins** <br> Official screensaver animation effects pack for Trance. | [studio2201/trance-plugins](https://github.com/studio2201/trance-plugins) | `Plugin Suite` |
 
-## Games
+## Web Games
 
 | Icon | Game & Description | Repository | Port |
 | :---: | :--- | :--- | :---: |
@@ -33,13 +34,7 @@ Self-hosted web applications, desktop systems, and games built in Rust. Clean, s
 | <img src="assets/scan.png" width="32" height="32"> | **Scan** <br> Planetary hazard sector scanner. A Minesweeper clone. | [studio2201/scan](https://github.com/studio2201/scan) | `4503` |
 | <img src="assets/defend.png" width="32" height="32"> | **Defend** <br> Retro-neon vertical space shooter. | [studio2201/defend](https://github.com/studio2201/defend) | `4504` |
 
-## Media
-
-| Icon | Media & Description | Repository | Port |
-| :---: | :--- | :--- | :---: |
-| <img src="assets/statesync.png" width="32" height="32"> | **StateSync** <br> Real-time state-syncing media server. | [studio2201/statesync](https://github.com/studio2201/statesync) | `4601` |
-
-## Core Libraries
+## Libraries
 
 | Icon | Library & Description | Repository | Type |
 | :---: | :--- | :--- | :---: |

@@ -6,7 +6,7 @@
 
 Self-hosted web applications, desktop systems, and games built in Rust. Clean, secure, and blazing fast.
 
-## Apps
+## Server Apps & Web Services
 
 | Icon | App & Description | Repository | Port |
 | :---: | :--- | :--- | :---: |
@@ -17,7 +17,7 @@ Self-hosted web applications, desktop systems, and games built in Rust. Clean, s
 | <img src="assets/grid.png" width="32" height="32"> | **Grid** <br> Clean, lightning-fast self-hosted Kanban board. | [studio2201/grid](https://github.com/studio2201/grid) | `4405` |
 | <img src="assets/pulse.png" width="32" height="32"> | **Pulse** <br> Real-time system monitoring panel. | [studio2201/pulse](https://github.com/studio2201/pulse) | `4406` |
 
-## Desktop & Screensavers
+## Desktop Applications & System Daemons
 
 | Icon | System & Description | Repository | Platform / Type |
 | :---: | :--- | :--- | :---: |

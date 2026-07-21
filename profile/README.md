@@ -39,6 +39,13 @@ frontends and Axum backends. Clean, secure, and blazing fast.
 | :--- | :--- | :---: | :---: |
 | **Shared Assets** <br> Shared design system, UI components, and backend utilities. | [studio2201/shared-assets](https://github.com/studio2201/shared-assets) | `—` | <img src="assets/beam.png" width="32" height="32"> |
 
+## Desktop & Screensavers
+
+| App & Description | Repo | Port | Icon |
+| :--- | :--- | :---: | :---: |
+| **Trance** <br> Modular, high-performance Wayland screensaver daemon & idle engine in Rust. | [studio2201/trance](https://github.com/studio2201/trance) | `—` | <img src="assets/beam.png" width="32" height="32"> |
+| **Trance Plugins** <br> Official screensaver effects pack for Trance. | [studio2201/trance-plugins](https://github.com/studio2201/trance-plugins) | `—` | <img src="assets/beam.png" width="32" height="32"> |
+
 <!--
 Placeholder icons: defend.png, rustle.png, snake.png, statesync.png are temporary copies of
 beam.png and should be replaced with per-app icons when available.

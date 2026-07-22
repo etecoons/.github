@@ -38,5 +38,6 @@ Self-hosted web services, desktop applications, and games built in Rust. Clean, 
 
 | Icon | Project & Description | Repository | Type |
 | :---: | :--- | :--- | :---: |
+| <img src="assets/unraid-templates.png" width="32" height="32"> | **Unraid Templates** <br> Official Unraid Community Applications XML templates repository. | [studio2201/unraid-templates](https://github.com/studio2201/unraid-templates) | `Unraid CA Catalog` |
 | <img src="assets/beam.png" width="32" height="32"> | **Packages** <br> Official APT and DNF package distribution repository & installer scripts. | [studio2201/packages](https://github.com/studio2201/packages) | `APT & DNF Hub` |
 | <img src="assets/beam.png" width="32" height="32"> | **Shared Assets** <br> Shared design system, UI components, and backend utilities. | [studio2201/shared-assets](https://github.com/studio2201/shared-assets) | `Rust Workspace` |

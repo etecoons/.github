@@ -4,7 +4,9 @@
 
 # studio2201
 
-Self-hosted web services, desktop applications, and games built in Rust. Clean, secure, and blazing fast.
+Self-hosted web services and games in Rust — containers first, Unraid-ready. Clean, secure, and blazing fast.
+
+Desktop Linux apps (including **Trance**) live at [crateria](https://github.com/crateria).
 
 ## Web Services
 
@@ -17,13 +19,6 @@ Self-hosted web services, desktop applications, and games built in Rust. Clean, 
 | <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/grid.png?v=1.0.31" width="32" height="32"> | **Grid** <br> Clean, lightning-fast self-hosted Kanban board. | [studio2201/grid](https://github.com/studio2201/grid) | `4405` |
 | <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/pulse.png?v=1.0.31" width="32" height="32"> | **Pulse** <br> Real-time system monitoring panel. | [studio2201/pulse](https://github.com/studio2201/pulse) | `4406` |
 | <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/statesync.png?v=1.0.31" width="32" height="32"> | **StateSync** <br> Real-time state-syncing media server. | [studio2201/statesync](https://github.com/studio2201/statesync) | `4601` |
-
-## Desktop
-
-| Icon | System & Description | Repository | Target |
-| :---: | :--- | :--- | :---: |
-| <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/trance.png?v=1.0.31" width="32" height="32"> | **Trance** <br> Modular, high-performance Wayland screensaver daemon & idle engine in Rust. | [studio2201/trance](https://github.com/studio2201/trance) | `Wayland / Linux` |
-| <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/trance-plugins.png?v=1.0.31" width="32" height="32"> | **Trance Plugins** <br> Official screensaver animation effects pack for Trance. | [studio2201/trance-plugins](https://github.com/studio2201/trance-plugins) | `Plugin Suite` |
 
 ## Web Games
 

@@ -33,6 +33,4 @@ Desktop Linux apps (including **Trance**) live at [crateria](https://github.com/
 
 | Icon | Project & Description | Repository | Type |
 | :---: | :--- | :--- | :---: |
-| <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/unraid-templates.png?v=1.0.31" width="32" height="32"> | **Unraid Templates** <br> Official Unraid Community Applications XML templates repository. | [studio2201/unraid-templates](https://github.com/studio2201/unraid-templates) | `Unraid CA Catalog` |
-| <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/packages.png?v=1.0.31" width="32" height="32"> | **Packages** <br> Official APT and DNF package distribution repository & installer scripts. | [studio2201/packages](https://github.com/studio2201/packages) | `APT & DNF Hub` |
 | <img src="https://raw.githubusercontent.com/studio2201/.github/master/profile/assets/shared-assets.png?v=1.0.31" width="32" height="32"> | **Shared Assets** <br> Shared design system, UI components, and backend utilities. | [studio2201/shared-assets](https://github.com/studio2201/shared-assets) | `Rust Workspace` |
